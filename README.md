@@ -1,5 +1,5 @@
 Hi there 👋
-🔭 I’m currently working on Bootstrap, JQuery, JavaScript and Java. <br<
+🔭 I’m currently working on Bootstrap, JQuery, JavaScript and Java. <br>
 📫 How to reach me; <br>
 -> linkedin: https://www.linkedin.com/in/emrekavak/ <br>
 -> gmail: emrekavakk@gmail.com <br>
