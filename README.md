@@ -1,5 +1,8 @@
 Hi there 👋
-
+🔭 I’m currently working on Bootstrap, JQuery, JavaScript and Java.
+📫 How to reach me;
+-> linkedin: https://www.linkedin.com/in/emrekavak/
+-> gmail: emrekavakk@gmail.com
 <!--
 **emrekavak/emrekavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
