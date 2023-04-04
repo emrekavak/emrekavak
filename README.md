@@ -1,5 +1,5 @@
 Hi there 👋<br>
-🔭 I’m currently working on Bootstrap, JQuery, JavaScript and Java. <br>
+🔭 I am a Computer Engineer and I have experience backend development with Java. <br>
 📫 How to reach me; <br>
 -> linkedin: https://www.linkedin.com/in/emrekavak/ <br>
 -> gmail: emrekavakk@gmail.com <br>
